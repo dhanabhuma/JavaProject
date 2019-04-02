@@ -21,6 +21,8 @@ public class firstprogram {
 		System.out.println("string1 "+s1);
 		System.out.println("string 2"+s2);
 		System.out.println("This is Subbu.");
+		
+		
 	}
 
 }
