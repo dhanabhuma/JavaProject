@@ -9,9 +9,6 @@ package test1.java;
  */
 public class firstprogram {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		System.out.println("helloworld");
 		//String str1="merit";
@@ -23,11 +20,6 @@ public class firstprogram {
 		String s2=Integer.toString(a2);
 		System.out.println("string1 "+s1);
 		System.out.println("string 2"+s2);
-		
-		
-		//System.out.print(+str1);
-		// TODO Auto-generated method stub
-
 	}
 
 }
